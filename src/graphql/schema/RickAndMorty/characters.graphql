@@ -1,0 +1,8 @@
+query getCharacters {
+    characters {
+        name,
+        type,
+        status,
+        image
+    }
+}

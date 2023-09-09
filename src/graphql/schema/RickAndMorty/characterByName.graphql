@@ -1,0 +1,15 @@
+query getCharacterByName($name: String!) {
+    character(name: $name) {
+        name,
+        status,
+        species,
+        type,
+        gender,
+        origin {name, url},
+        location {name,url},
+        image,
+        episode,
+        url,
+        created,
+    }
+}
