@@ -3,6 +3,8 @@
 This is a Next.js project that combines the power of several modern technologies to create a fully type-safe end-to-end
 GraphQL solution for Next.js applications.
 
+![GIF demo](demo/preview.gif)
+
 ## Technologies Used
 
 + Next.js: A popular React framework for building fast and scalable web applications with server-side rendering and
